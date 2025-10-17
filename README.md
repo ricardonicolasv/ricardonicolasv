@@ -20,9 +20,9 @@ Soy **Ingeniero en Informática** con experiencia en desarrollo web **Full Stack
 Tengo conocimientos en **Google Cloud Platform** (BigQuery, Cloud Functions, Pub/Sub) y en herramientas de **Business Intelligence** como **Power BI** y **Looker Studio**.
 
 🚀 Actualmente me encuentro:
-- Explorando **n8n** y **multiagentes de IA** para automatización avanzada.
-- Aprendiendo sobre **Node.js**, **LangChain** y **RAG**.
-- Perfeccionando mis habilidades en **MVPs**, integraciones y análisis de datos.
+- Explorando React y TypeScript para desarrollo front-end moderno.
+- Profundizando en Node.js, LangChain y RAG.
+- Mejorando mis habilidades en integraciones, automatización y análisis de datos.
 
 ---
 
