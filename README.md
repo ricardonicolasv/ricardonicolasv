@@ -1,7 +1,7 @@
 <!-- 👋 PRESENTACIÓN -->
 <h1 align="center">👋 ¡Hola, soy Ricardo Vidal! ⚙️💡</h1>
 <p align="center">
-  Ingeniero en Informática | Full Stack Developer | Apasionado por la Automatización y la IA
+  Ingeniero en Informática | Full Stack Developer | Diseñando soluciones inteligentes con tecnología y datos
 </p>
 
 <!-- 🔗 ENLACES RÁPIDOS -->
